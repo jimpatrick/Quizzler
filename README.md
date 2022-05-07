@@ -1,8 +1,4 @@
-# quizzler_review
-
-A new Flutter project.
-
-## Getting Started
+##A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
