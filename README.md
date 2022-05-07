@@ -12,10 +12,10 @@ In this project you will learn the following:
 - Use SingleChildScrollView widget for long text and etc to scroll view
 <hr>
 True, False questions:
-<a href="url"><img src="https://user-images.githubusercontent.com/67797747/167255831-2861e947-c70a-43dd-be24-b645ff6b43d2.png" align="center" height="626" width="313" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/67797747/167255831-2861e947-c70a-43dd-be24-b645ff6b43d2.png" align="left" height="626" width="313" ></a>
 <hr>
 Fade edges in top and bottom scroll view:
-<a href="url"><img src="https://user-images.githubusercontent.com/67797747/167255835-9f1c4148-52f0-4d7a-8a90-eea9f820b5cc.png" align="center" height="626" width="313" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/67797747/167255835-9f1c4148-52f0-4d7a-8a90-eea9f820b5cc.png" align="left" height="626" width="313" ></a>
 <hr>
 Result page:
-<a href="url"><img src="https://user-images.githubusercontent.com/67797747/167255846-3e692d48-17c7-4275-935c-6ec974cb88fc.png" align="center" height="626" width="313" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/67797747/167255846-3e692d48-17c7-4275-935c-6ec974cb88fc.png" align="left" height="626" width="313" ></a>
