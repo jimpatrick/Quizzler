@@ -9,3 +9,4 @@ In this project you will learn the following:
 - Change the state of a widget 
 - Use the list for small data and add and empty it 
 - Separation models, screens and components in folders
+- Use SingleChildScrollView widget for long text and etc to scroll view
