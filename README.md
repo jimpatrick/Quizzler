@@ -20,5 +20,5 @@ Fade edges in top and bottom scroll view:
 Result page:
 ![Screenshot_1651928925](https://user-images.githubusercontent.com/67797747/167255846-3e692d48-17c7-4275-935c-6ec974cb88fc.png)
 
-<a href="url"><img src="https://user-images.githubusercontent.com/67797747/167255831-2861e947-c70a-43dd-be24-b645ff6b43d2.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/67797747/167255831-2861e947-c70a-43dd-be24-b645ff6b43d2.png" align="left" height="972" width="486" ></a>
 
